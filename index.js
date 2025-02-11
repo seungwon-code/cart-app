@@ -1,5 +1,7 @@
 const db = localStorage;
 
+//
+
 const data = db.getItem("list");
 // null = 아무것도 없는 값  => object memory
 // undefined = 아무것도 없음
